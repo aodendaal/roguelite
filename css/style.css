@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Metrickal;
+    src: url(../fonts/Metrickal-Regular.otf);
+}
+
+body {
+    font-family: Metrickal, monospace;
+    color: #aaa;
+    background-color: #000;
+}
